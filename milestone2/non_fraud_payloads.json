@@ -1,0 +1,2502 @@
+[
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "a5c26bd1-ac6c-4b41-98f3-96f80dd00589"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "6c3ff199-a1a1-4656-84e3-a09bdede09cd"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "6d85a8d7-e061-4f8c-8d9e-abe0215b6c13"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "6a2f4ff1-79e1-41d5-bd67-b394b2dcd6f8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e75d3dde-eb2a-42a1-88bf-aed1dba153d9"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "ef1d807b-f0c1-438b-bfb3-abeba7aeab30"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "80aff59e-398f-44b8-8f9c-ff291c77c0a6"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "81a380ec-fad2-4dd8-8ab5-1a83d2446cc8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e8dc4fdd-573d-4c6d-8844-c5b123e6f74e"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "12cdeca7-779f-4325-8a6b-68385d443e8d"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "ce84f654-f7e2-4753-9cbe-c7edd30d26d2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e2c1e529-ff44-4964-bd93-ea75b10f76ce"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "2f27f4dc-cc5a-4618-b772-9795711d4112"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "32390adf-4ecd-4770-b6b4-2ff1c8827c92"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "0832bac5-8004-47a1-b153-bed3718d480b"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "217a7d7a-4f58-4abb-b433-d0f6c3f9459a"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "ff9d37a4-a266-4cc3-b9d5-72b24c655a84"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "af37d77f-9acd-49db-9c5f-bad3f660a1ab"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c97254c8-04c1-40f4-954b-542976ab3536"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "b32a01d2-414c-4d57-b9c2-5e4fdd94d684"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "a4b15ae6-f949-42bb-a59e-ec1c643a869e"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "42943f20-e8e6-46c4-af0f-bae42b336a54"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "6e552f30-bc8c-4c71-ab52-77bbca35c370"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "a8d75b3c-2339-4260-a75c-508d55fe5306"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7b55a700-590d-4877-ba60-e5a79a65876b"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "21d6a92f-239f-4b42-96db-d9292336a9ee"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "5dcf8b2c-638b-4300-8580-ed6af24bffe6"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "641458a2-ecf8-4996-9620-3f6dff28a6a8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "51885a89-86b2-47a6-bca3-bdbc09aab295"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "f392bc1b-0a54-4d20-8f5d-750d6c7677eb"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "cea75bdc-93b6-456e-93f5-118f47e74b17"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "23e11a57-5fc0-4717-b8b6-596df78a8586"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "208b9994-562d-4697-af6e-9872c9ad13f8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "9eee905b-6229-44b5-8818-8fe219c3681c"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "aa822b27-2a6b-4913-93d3-85380c474415"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "1dd5ff97-9917-45ec-8c7f-809027fd2326"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "21751e4e-796e-4441-b522-b870c197e8e3"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "238b48a5-a699-4b1f-83de-c53630f022c2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "ac7ac654-5100-4ab1-bccf-4689b965292d"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c804d8f8-5f89-480b-bfb7-143884e9d104"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7b46faee-9fbe-4c04-8f35-68e9b8b0c114"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "caa2d0cf-44dc-48c8-9c08-f73cf6a643ac"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "442bdce2-5cc4-4760-abb9-c0397267786f"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "18ea022d-66eb-400d-9687-7c9a310f36c7"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "8142c515-4984-4cfa-9a95-c22b9ad97bbd"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "96af8000-b12f-4647-a24b-e36eb7d7eab0"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "4a152fea-3948-4f5b-9845-ca749a629580"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "4c059a10-c08a-45ee-abbc-4481e0aea91c"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "2ffb87fd-5b33-4c3d-ad0a-725885fa4fed"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e3ef64e5-af4d-49f8-9be8-4796a73a56a4"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "322699ee-3d99-4c5b-a3ae-b5cc1ef1d8b2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "a59e062e-bb73-4dca-a445-30d12f2b81dc"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7d5da499-2b09-4354-9b8a-9637e1af166b"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "9cb7e670-1821-4009-a577-bdad45ee9d5d"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "159a6604-48a6-4134-8a40-ba1f9553d180"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7dc32ab8-a660-41a4-b7bd-592de0ad779e"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "a62bc07f-76e5-4ec6-a733-c7100b0810fa"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c81bb85c-419e-4576-a596-16428d8da43c"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "75ac44fa-6fd3-4244-8e50-0ef15f88bcb5"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "5a6df376-2c47-41c2-8650-a6b645d6189b"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7a334a41-9957-4036-be15-208ae6442351"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e9e376a8-3cc9-464c-9272-acb45a85d2f5"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "5aa6ec60-df18-4f47-a3ab-11f705b1bf92"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "b0a72ecc-1352-4e6d-996d-705dadf29489"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "4306dd01-71fc-4f2d-9337-5d3cf56dfc70"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "665fe262-ef39-4796-9faf-1ff4c3fcd75a"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c1da4c1b-502b-4a1e-81e2-633d3f1e9686"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "3211d056-e7b5-499b-84ce-f8b2c4b60628"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "5a713d06-a712-443d-bdee-3d003a100b7a"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "ef7173d7-5133-4aff-894c-9f8d6ad03f86"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "25ad0109-86fb-4a21-ae2e-9bb442ed2aa1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "8f7e7a60-2c83-44e9-9646-c6c268bdc0c8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7b83e020-4c0c-4416-a631-da2c32bad22a"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e1249140-d0cd-4dce-8eee-bb2cf08baf94"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "288351f1-06c2-4daf-9d9d-38b22204d7c8"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "680a0048-184d-4426-9a4c-decd67a396c2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c1352c00-d89c-4979-9f60-21a00aa7c728"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "f2caacb5-1482-4ba5-8ed8-e1690825c71e"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "648d48af-413f-4153-92ca-56aad0a51e95"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c3587fda-5034-4b57-853d-932cfa22c50c"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "05fc9205-e52b-4625-a371-eb1db654d03d"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "abfce4e6-7a04-42a4-bb31-38c34a15d647"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "3db882e6-04e5-4b9c-81ff-6407311f93f1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "7384da5d-2f70-4748-89cb-8224f37a74c1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "3d23d8b0-f309-40d8-8766-bcb6ef7142dd"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "9f4f1e45-4ccc-4ce9-8ffe-36916007321a"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "27cee9ba-bcfc-4670-8f9a-6a478b27557f"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "04d4a145-d16c-4745-8029-42830efa03ad"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "2a4cc985-e957-4e53-abed-aef92a622440"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "4113dee6-273e-4848-977f-82ae997d1908"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "8a8b0c9a-759f-4e42-a1ff-45ef4fd9ee5d"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "d16506d3-defc-45cf-b77d-62a245a80f71"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "e42e8782-40c9-441c-8ca5-186d67f793c4"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "025f14b6-2ffa-45d1-b754-e622827433e1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "211771e3-d2bd-4da1-9126-baaffd68e675"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "c58f40dc-cf99-4e5e-860f-692815911d82"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "cc68e691-431c-492c-9e8d-3b3ef2663223"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "0464934f-9ec1-498c-bda5-c08971ca0dd2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "0f586bbb-ec05-4f67-8a19-461c8b8b2077"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "decisions",
+      "attributes": {
+        "activity": {
+          "payload": {
+            "channel": "app",
+            "device": {
+              "isNew": "false",
+              "location": "USA"
+            },
+            "ip": {
+              "isVPN": "false"
+            },
+            "transactionAmount": "100",
+            "paymentMethod": "debit_card",
+            "geo": {
+              "country": "US"
+            },
+            "barclaysDeviceId": "28a0f573-d16b-41b4-affc-19e07edc94c5"
+          }
+        }
+      }
+    }
+  }
+]

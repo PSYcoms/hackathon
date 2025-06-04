@@ -73,6 +73,20 @@
 #     f.write(js_function)
 
 # print("✅ JavaScript rule saved to generated_fraud_rule.js")
+from mlxtend.preprocessing import TransactionEncoder
+from mlxtend.frequent_patterns import fpgrowth
+
+# Convert each row to list of "feature=value"
+transactions = []
+for _, row in df.iterrows():
+    transaction = [f"{col}={val}" for col, val in row.items()]
+    transactions.append(transaction)
+
+# Transform to boolean matrix
+te = TransactionEncoder()
+te_ary = te.fit(transactions).transform(transactions)
+df_tf = pd.DataFrame(te_ary, columns=te.columns_)
+
 
 
 import json
