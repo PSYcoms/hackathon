@@ -75,15 +75,15 @@
 # print("✅ JavaScript rule saved to generated_fraud_rule.js")
 
 
-
-
 import json
 import pandas as pd
+from sklearn.tree import DecisionTreeClassifier, export_text
 
-# Load fraud JSONs
+# Load JSON payloads (list of dicts)
 with open('confirmed_fraud_payloads.json') as f:
     data = json.load(f)
 
+# Flatten JSONs
 def flatten(d, parent_key='', sep='.'):
     items = []
     for k, v in d.items():
@@ -91,48 +91,40 @@ def flatten(d, parent_key='', sep='.'):
         if isinstance(v, dict):
             items.extend(flatten(v, new_key, sep=sep).items())
         else:
-            items.append((new_key, str(v)))  # Convert all values to string
+            items.append((new_key, v))
     return dict(items)
 
-# Flatten each payload
-flat_records = [flatten(d['data']['attributes']['activity']['payload']) for d in data]
-df = pd.DataFrame(flat_records).fillna('null')
+flat_data = [flatten(record['data']['attributes']['activity']['payload']) for record in data]
 
-from mlxtend.preprocessing import TransactionEncoder
-from mlxtend.frequent_patterns import fpgrowth
+df = pd.DataFrame(flat_data)
+df['label'] = 1  # All are confirmed frauds
 
-# Convert each row to list of "feature=value"
-transactions = []
-for _, row in df.iterrows():
-    transaction = [f"{col}={val}" for col, val in row.items()]
-    transactions.append(transaction)
+with open('non_fraud_payloads.json') as f:
+    legit_data = json.load(f)
 
-# Transform to boolean matrix
-te = TransactionEncoder()
-te_ary = te.fit(transactions).transform(transactions)
-df_tf = pd.DataFrame(te_ary, columns=te.columns_)
+flat_legit = [flatten(record['data']['attributes']['activity']['payload']) for record in legit_data]
+df_legit = pd.DataFrame(flat_legit)
+df_legit['label'] = 0  # Not fraud
 
+# Combine
+df_all = pd.concat([df, df_legit], ignore_index=True).fillna(0)
 
+from sklearn.model_selection import train_test_split
 
-from mlxtend.preprocessing import TransactionEncoder
-from mlxtend.frequent_patterns import fpgrowth
+X = df_all.drop(columns=['label'])
+y = df_all['label']
 
-# Convert each row to list of "feature=value"
-transactions = []
-for _, row in df.iterrows():
-    transaction = [f"{col}={val}" for col, val in row.items()]
-    transactions.append(transaction)
+# Convert categorical to numeric
+X_encoded = pd.get_dummies(X)
 
-# Transform to boolean matrix
-te = TransactionEncoder()
-te_ary = te.fit(transactions).transform(transactions)
-df_tf = pd.DataFrame(te_ary, columns=te.columns_)
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X_encoded, y, test_size=0.3, random_state=42)
 
+# Train
+clf = DecisionTreeClassifier(max_depth=5, random_state=42)
+clf.fit(X_train, y_train)
 
-
-# min_support = 0.4 means pattern appears in ≥ 40% of frauds
-frequent_itemsets = fpgrowth(df_tf, min_support=0.4, use_colnames=True)
-
-# Sort by support
-frequent_itemsets.sort_values(by='support', ascending=False, inplace=True)
-print(frequent_itemsets.head(20))
+# Get human-readable decision rules
+rules = export_text(clf, feature_names=list(X_encoded.columns))
+print("Fraud detection patterns:\n")
+print(rules)
